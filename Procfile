@@ -1,1 +1,1 @@
-web: gunicorn RutBlog.wsgi
+web: gunicorn djangoRutBlog.wsgi
